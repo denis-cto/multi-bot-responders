@@ -1,0 +1,25 @@
+{
+  "en": {
+    "First message": "Hello, ##USER_NAME##. To subscribe to the notifications, please send any message.",
+    "User joined": "User ##USER_NAME## joined ##BOT_NAME##.",
+    "Hello": "Hello ##USER_NAME##",
+    "Welcome back": "Welcome back, ##USER_NAME##",
+    "Welcome back in App": "Welcome back, ##USER_NAME##",
+    "My Account": "My Account",
+
+    "Your message was not delivered, ups... Try again": "Your message was not delivered, ups... Try again",
+    "Verification code error": "The code entered is incorrect. Please try again.",
+
+
+    "There was an error while registering you": "There was an error while registering you",
+    "We dont know you. Tell us your phone": "We dont know you. Tell us your phone",
+    "Tell my phone number": "Tell my phone number",
+    "Your access from this messenger is blocked until ": "Your access from this messenger is blocked until ",
+    "Your access from this messenger was blocked until ": "Your access from this messenger was blocked until ",
+    "Wait a minute, please...": "Wait a minute, please...",
+    "We dont know you yet. Please send in your PHONE NUMBER": "We dont know you yet. Please send in your PHONE NUMBER",
+    "Send my PHONE NUMBER": "Send my PHONE NUMBER",
+
+    "": ""
+  }
+}

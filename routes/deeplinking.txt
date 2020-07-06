@@ -1,0 +1,11 @@
+#telegram
+https://telegram.me/<bot_username>?start=objid_200
+
+#viber
+viber://pa?chatURI=<public_account_URI>&context=objid_200&text=hello
+
+#facebook
+http://m.me/<mybot>?ref=objid_200
+
+#vk
+https://vk.com/im?sel=-<bot_id>&media=&message=Пожалуйста, отправьте это сообщение. <token>

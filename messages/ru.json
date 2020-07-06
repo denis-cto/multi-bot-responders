@@ -1,0 +1,26 @@
+{
+  "ru": {
+    "First message": "Добро пожаловать, ##USER_NAME##. Для подписки отправьте любое сообщение.",
+    "User joined": "Пользователь ##USER_NAME## присоединился к ##BOT_NAME##.",
+    "Hello": "Привет, ##USER_NAME##!",
+    "Welcome back": "С возвращением, ##USER_NAME##!",
+    "Welcome back in App": "С возвращением, ##USER_NAME##! в приложение :",
+    "We have received your message and respond you ASAP. Press this button to enter your Account": "Спасибо за обращение. Для перехода в личный кабинет нажмите кнопку ниже.",
+    "My Account": "Личный кабинет",
+
+    "Your message was not delivered, ups... Try again": "Упс, ваше сообщение не было доставлено... Попробуйте еще раз.",
+    "Verification code error": "Введен неверный код. Пожалуйста, попробуйте еще раз.",
+
+
+    "There was an error while registering you": "Произошла ошибка при регистрации",
+    "We dont know you. Tell us your phone": "Мы вас не узнали. Сообщите ваш номер телефона, чтобы мы нашли ваш аккаунт. ",
+    "Tell my phone number": "Сообщить мой номер телефона",
+    "Your access from this messenger is blocked until ": "Доступ в этом мессенджере закрыт до ",
+    "Your access from this messenger was blocked until ": "Доступ в этом мессенджере был закрыт до ",
+    "Wait a minute, please...": "Подождите минуточку, пожалуйста...",
+    "We dont know you yet. Please send in your PHONE NUMBER": "Мы вас не узнали, отправьте пожалуйста свой номер телефона",
+    "Send my PHONE NUMBER": "Отправить мой номер телефона",
+
+    "": ""
+  }
+}
